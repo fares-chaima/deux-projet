@@ -1,0 +1,416 @@
+header{
+    width: 1000px;
+    height: 60px;
+    background-color: #1f203e;
+}
+div.logo{
+    width: 100px;
+    height: 60px;
+    float: left;
+    margin-left: 100px;
+    background-color: #1f203e;
+}
+div.nav{
+    width: 350px;
+    height: 60px;
+    float: left;
+    margin-left: 100px;
+    background-color:#1f203e;
+}
+div.sin{
+    width: 100px;
+    height: 60px;
+    float: left;
+    margin-left: 100px;
+    background-color:#1f203e;
+}
+
+
+
+h1.logo{
+    font-size: 27px;
+    color: #ffffff;
+    margin-top: 0.4cm;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+a.nav{
+    font-size: 18px;
+    float: right;
+    margin-right: 14px;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 0.6cm;
+  
+}
+a.nav:hover{
+    border-bottom: 2px solid;
+    border-image: linear-gradient(to right, #00fbfd, #1f203e);
+    border-image-slice: 1;
+}
+
+
+button.sin{
+    width: 80px;
+    height: 40px;
+    margin-top: 10px;
+    background-color: #1f203e;
+    color:#ffffff
+    ;
+    margin-top: 0.4cm;
+    font-size: 12px;
+    border-color: #ffffff;
+    border-radius: 0.2cm;
+}
+
+button.sin:hover{
+    border: 2px solid;
+    border-image: linear-gradient(to right, #00fbfd, #1f203e);
+    border-image-slice: 1;
+    border-radius: 0.2cm;
+}
+
+
+div.one{
+    width: 1000px;
+    height: 400px;
+    background-color: #00fbfd;
+    background-image: url(horia.PNG);
+    background-size: 1000px 400px;
+    background-repeat: no-repeat;
+}
+div.two{
+    width: 1000px;
+    height: 700px;
+    background-color: #ffffff;
+    background-image: url(alaaam.PNG);
+    background-size: 1000px 350px;
+    background-repeat: no-repeat;
+}
+div.kor{
+    width: 300px;
+    height: 300px;
+    background-image: url(kora.PNG);
+    background-size: 300px 300px;
+    background-repeat: no-repeat;
+    margin-top: 1.5cm; 
+    margin-left: 2.5cm;
+}
+div.n{
+    height: 1px;
+    opacity: 0;
+}
+
+
+h1.cru{
+    font-size: 28px;
+    color: #ffffff;
+    margin-top: -6cm;
+    margin-left: 100px;
+}
+P.cru{
+    font-size: 18px;
+    color: #ffffff;
+   
+    margin-left: 140px;
+}
+
+img.qsa{
+    margin-left: 11cm;
+}
+
+img.qs{
+    margin-left: 23cm;
+    margin-top: -6cm;
+}
+div.bs{
+    width: 250px;
+    border-radius: 0.6cm;
+    
+    height: 50px;
+    margin-left: 15cm;
+    margin-top: -7cm;
+    opacity: 0.9;
+    background-color:#3e3e64;
+    box-shadow: 
+    2px 2px 5px rgba(0,0,0,0.3), 
+    -2px -2px 5px rgba(255,255,255,0.3);
+
+}
+button.by{
+    width: 80px;
+    height: 30px;
+    margin-left: 0.2cm;
+    background-image:linear-gradient(to right, #7465fc, #d2d2e4); ;
+color: #ffffff;
+font-size: 15px;
+border-color: #7465fc;
+border-radius: 0.3cm;
+margin-top: 0.2cm;
+}
+a.sall{
+    margin-left: 0.5cm;
+    color: #ffffff;
+}
+a.cha{
+    color: #ffffff;
+    margin-left: 0.9cm;
+}
+
+
+div.usa{
+    width: 250px;
+    height: 270px;
+    background-color: aqua;
+    margin-left: 15cm;
+    margin-top: 0.3cm;
+    opacity: 0.9;
+    background-color:#3e3e64;
+    border-radius: 0.6cm;
+    box-shadow: 
+    2px 2px 5px rgba(0,0,0,0.3), 
+    -2px -2px 5px rgba(255,255,255,0.3);
+}
+
+div.usd{
+    width: 210px;
+    margin-left: 20px;
+    margin-top: 30px;
+    height: 55px;
+    background-color: #0c0d18;
+    border-radius: 0.3cm;
+}
+div.btc{
+    width: 210px;
+    margin-left: 20px;
+    margin-top: 25px;
+    height: 55px;
+    background-color: #0c0d18;
+    border-radius: 0.3cm;
+}
+    button.bush{
+        width: 210px;
+        margin-left: 20px;
+        margin-top: 25px;
+        height: 45px;
+        background-image:linear-gradient(to right, #7465fc, #d2d2e4);
+        border-radius: 0.3cm;
+        color: #ffffff;
+        font-size: 15px;
+        border-image:linear-gradient(to right, #7465fc, #d2d2e4);
+    }
+
+
+    img.us{
+        float: right;
+        border-radius: 0.3cm;
+        margin-top: 0.25cm;
+    }
+    img.uss{
+        float: right;
+        border-radius: 0.3cm;
+        margin-top: 0.4cm;
+    }
+
+    h1.pri{
+        font-size: 9px;
+        color: #ffffff;
+        margin-top: 0.2cm;
+        margin-left: 0.3cm;
+    }
+    h1.cent{
+        font-size: 16px;
+      
+        color: #ffffff;
+        margin-top: 0.1cm;
+        margin-left: 0.3cm;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+    }
+
+
+    h1.buy{
+        text-align: center;
+        font-size: 25px;
+        margin-top: 2.5cm;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    }
+    p.buy{
+        text-align: center;
+        font-size: 18px;
+       
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    }
+
+
+    div.tab{
+        width: 600px;
+        margin-left: 200px;
+        height: 80px;
+        background-color: #c7c3c3;
+        border-radius: 0.5cm;
+        margin-top: 2cm;
+
+    }
+    
+    div.ta{
+        width: 600px;
+        margin-left: 200px;
+        height: 80px;
+        background-color: #c7c3c3;
+        border-radius: 0.5cm;
+        margin-top: 0.15cm;
+
+    }
+    div.taa{
+        width: 610px;
+        margin-left: 195px;
+        height: 80px;
+        background-color: #ffffff;
+        border-radius: 0.5cm;
+        margin-top: 0.15cm;
+        box-shadow: 
+        20px 20px 15px rgba(0,0,0,0.3), 
+        -5px -5px 15px rgba(29, 28, 28, 0.3)
+      ;
+
+    }
+
+
+    img.oum{
+        margin-top: 0.3cm;
+        margin-left: 0.2cm;
+        border-radius: 0.5cm;
+    }
+    img.ouma{
+        margin-top: -1.5cm;
+        margin-left: 9.5cm;
+      
+    }
+    img.oumaa{
+        margin-top: -1.5cm;
+        margin-left: 14.5cm;
+      
+    }
+
+    h1.nom{
+        font-size: 18px;
+        margin-left: 2cm;
+        margin-top: -47px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    }
+    h1.no{
+        font-size: 16px;
+        margin-left: 2cm;
+        margin-top: -10px;
+        color: #525151;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    }
+    h1.dol{
+        margin-left: 11.1cm;
+        font-size: 18px;
+        margin-top: -1.5cm;
+    }
+    h1.heu{
+        margin-left: 11.1cm;
+        font-size: 14px;
+        margin-top: -0.2cm;
+        color: #026f18;
+    }
+
+
+    div.tri{
+        width: 1000px;
+        height: 200px;
+        background-color: #ffffff;
+        background-image: url(tot.PNG);
+        background-size: 250px 200px;
+        background-repeat: no-repeat;
+    }
+    div.dada{
+        width: 1000px;
+        height: 400px;
+        background-color: #ffffff;
+        background-image: url(ni.PNG);
+        background-size: 387px 400px;
+        background-repeat: no-repeat;
+    }
+img.all{
+    margin-left: 3cm;
+    margin-top: -2.5cm;
+    border-radius: 0.5cm;
+    box-shadow: 
+    20px 20px 15px rgba(0,0,0,0.3), 
+    -5px -5px 15px rgba(29, 28, 28, 0.3)
+}
+img.al{
+    margin-left: 2cm;
+    margin-top: -6cm;
+    border-radius: 0.5cm;
+    box-shadow: 
+    20px 20px 15px rgba(0,0,0,0.3), 
+    -5px -5px 15px rgba(29, 28, 28, 0.3)
+}
+img.allm{
+    margin-left: 7cm;
+    margin-top: -3cm;
+    border-radius: 0.5cm;
+    box-shadow: 
+    20px 20px 15px rgba(0,0,0,0.3), 
+    -5px -5px 15px rgba(29, 28, 28, 0.3)
+}
+div.mob{
+    float: right;
+    width: 400px;
+    height: 300px;
+    background-color: #ffffff;
+    margin-right: 100px;
+    margin-top: -6cm;
+}
+
+h1.mob{
+    font-size: 28px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+p.mob{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+div.mobi{
+    width: 280px;
+    
+    height: 50px;
+    background-color: #d9d9d9;
+    border-radius: 0.3cm;
+}
+button.mob{
+    width: 100px;
+    height: 50px;
+    color: #ffffff;
+    float: right;
+    margin-top: -1.35cm;
+    border-radius: 0.5cm;
+    margin-right: 10px;
+    border-color: #3e3e64 ;
+    background-image:linear-gradient(to right, #3f2bf5, #d2d2e4) ;
+}
+
+
+img.vb{
+    margin-top: 0.2cm;
+    margin-left: 0.2cm;
+}
+
+h1.tlp{
+    font-size: 13px;
+    color: #676666;
+    margin-left: 65px;
+    margin-top: -21px;
+}

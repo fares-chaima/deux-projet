@@ -1,0 +1,86 @@
+body {
+    background: linear-gradient(to top, #3c734b, #4f8126);
+
+  }
+  header{
+    width: 800px;
+    height: 60px;
+    background-color: transparent;
+    border-radius: 0.3cm;
+
+  }
+  div.fil{
+    width: 800px;
+    height: 800px;
+    margin-top: 50px;
+    margin-left: 100px;
+    background-color:#f0f1f060;
+    background-image: url(rida.JPG);
+   background-size: 200px 350px;
+   background-repeat: no-repeat;
+    backdrop-filter: blur(5px);
+    border-radius: 0.3cm;
+  }
+
+
+  div.logo{
+    float:left;
+    width: 100px;
+    margin-left: 100px;
+    background-color: transparent;
+    height: 60px;
+
+  }
+  div.adress{
+    float:left;
+    width: 250px;
+    margin-left: 100px;
+    background-color: transparent;
+    height: 60px;
+
+
+  }
+  h1.logo{
+    color: #000
+    ;
+    font-size: 22px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+  div.adress{
+    float:left;
+    width: 250px;
+    margin-left: 100px;
+    background-color: transparent;
+    height: 60px;
+
+
+  }
+  div.btn{
+    float:left;
+    width: 100px;
+    margin-left: 50px;
+    background-color: transparent;
+    height: 60px;  
+  }
+
+
+  a.ad{
+    font-size: 17px;
+    float: right;
+    margin-right: 10px;
+    color: #000;
+    margin-top: 24px;
+  }
+  button.log{
+    width: 80px;
+    height: 40px;
+    background-color: #000f04;
+    color: #ffffff;
+    font-size: 14px;
+    border-radius: 0.2cm;
+    margin-top: 0.4cm;
+    border-color:#000f04 ;
+    font-family: Arial, Helvetica, sans-serif;
+  }
